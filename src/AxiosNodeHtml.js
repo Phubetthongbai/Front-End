@@ -7,7 +7,7 @@ const app = express()
 var bodyParser = require('body-parser')
 const e = require('express')
 
-const base_url = "http://node56510-env-8245251.proen.app.ruk-com.cloudhttp://node56510-env-8245251.proen.app.ruk-com.cloud"
+const base_url = "http://node56510-env-8245251.proen.app.ruk-com.cloud"
 
 
 
